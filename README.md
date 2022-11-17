@@ -1,8 +1,5 @@
 <style>
-  h2 {
-    color: red;
-    font-weight: bold;
-  }
+
 </style>
 
-<h2>Hello World !!</h2>
+<h2>Seja bem-vindo a minha página de atividades...</h2>
