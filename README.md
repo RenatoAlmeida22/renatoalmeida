@@ -1,3 +1,12 @@
+<style>
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+</style>
 
 <h3>Seja bem vindo a minha página de atividades...</h3>
 
