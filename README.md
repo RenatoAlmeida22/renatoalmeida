@@ -3,8 +3,3 @@
 
 <h1>GOD OF WAR RAGNAROK</h1>
 
-<div class="container">
-  
-  
-  
-</div>
