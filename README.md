@@ -1,3 +1,3 @@
 # renatoalmeida
 
-<h2>Hello Word </h2>
+<h2>Hello World</h2>
