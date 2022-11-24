@@ -12,7 +12,7 @@
     }
 </style>
 
-<h1 style="font-family: 'Sarala'; font-size: 2rem;">COPA DO MUNDO</h1>
+<h1 style="font-family: 'Sarala'; font-size: 3.5rem;">COPA DO MUNDO</h1>
 
 <div class="anuncio" style="width: 100%; height: 350px; background: green;">
    
