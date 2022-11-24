@@ -8,8 +8,10 @@
     }
     
     body {
-    background: #222;
+    background: #fff;
     }
 </style>
+
+<h1 style="font-family: 'Sarala'; font-size: 2rem;">COPA DO MUNDO</h1>
 
 
