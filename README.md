@@ -1,3 +1,5 @@
+<style>
+    background: #222;
+</style>
 
-<h1>Seja bem vindo !!</h1>
 
